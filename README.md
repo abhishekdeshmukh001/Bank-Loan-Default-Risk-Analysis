@@ -1,8 +1,8 @@
-## Title: Bank Loan Default Risk Analysis
+# Title: Bank Loan Default Risk Analysis
 
 In this project, we develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
 
-## Link to Dataset: https://drive.google.com/file/d/1TbfejU2hjSoF6f0-CmIQg6QXGygWhQyq/view?usp=sharing
+### Link to Dataset: https://drive.google.com/file/d/1TbfejU2hjSoF6f0-CmIQg6QXGygWhQyq/view?usp=sharing
 
 ### A. Business Understanding:
 - The loan providing companies find it hard to give loans to the people due to their insufficient or non-existent credit history. Because of that, some consumers use it as their advantage by becoming a defaulter.
