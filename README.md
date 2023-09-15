@@ -4,6 +4,8 @@ In this project, we develop a basic understanding of risk analytics in banking a
 
 ### Link to Dataset: https://drive.google.com/file/d/1TbfejU2hjSoF6f0-CmIQg6QXGygWhQyq/view?usp=sharing
 
+***
+
 ### A. Business Understanding:
 - The loan providing companies find it hard to give loans to the people due to their insufficient or non-existent credit history. Because of that, some consumers use it as their advantage by becoming a defaulter.
 - When the company receives a loan application, the company has to decide for loan approval based on the applicant’s profile. 
