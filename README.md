@@ -24,6 +24,34 @@ In this project, we develop a basic understanding of risk analytics in banking a
 - In other words, the company wants to understand the driving factors behind loan default, i.e. the variables which are strong indicators of default. The company can utilise this knowledge for its portfolio and risk assessment.
 
 
+## Screenshots
+
+- ***CountPlot 1***
+
+![App Screenshot](https://github.com/abhishekdeshmukh001/Bank-Loan-Default-Risk-Analysis/blob/main/Countplot.png?raw=true)
+
+- ***CountPlot 2***
+
+![App Screenshot](https://github.com/abhishekdeshmukh001/Bank-Loan-Default-Risk-Analysis/blob/main/Countplot%202.png?raw=true)
+
+- ***BoxPlot***
+
+![App Screenshot](https://github.com/abhishekdeshmukh001/Bank-Loan-Default-Risk-Analysis/blob/main/Boxplot.png?raw=true)
+
+- ***Heatmap***
+
+![App Screenshot](https://github.com/abhishekdeshmukh001/Bank-Loan-Default-Risk-Analysis/blob/main/Heatmap.png?raw=true)
+
+- ***Pairplot***
+
+![App Screenshot](https://github.com/abhishekdeshmukh001/Bank-Loan-Default-Risk-Analysis/blob/main/Pairplot.png?raw=true)
+
+
+## 🔗 Link
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-sachin-deshmukh/)
+
+
 ## Authors
 
 - [@abhishekdeshmukh001](https://github.com/abhishekdeshmukh001)
+
